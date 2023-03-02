@@ -1,5 +1,5 @@
 
-# Watch together
+# Watch together (WIP)
 
 a tiny app to watch anime / video / movies together with friends.
 
