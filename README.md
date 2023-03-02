@@ -32,7 +32,9 @@ Start the server
   npm run dev
 ```
 
-
+<details>
+  <summary>Screenshots</summary>
+  
 ## Mobile Screenshots
 
 ![App Screenshot](./readme/screenshots/mobile-home.png)
@@ -44,5 +46,9 @@ Start the server
 ![App Screenshot](./readme/screenshots/hd-home.png)
 ![App Screenshot](./readme/screenshots/hd-login.png)
 ![App Screenshot](./readme/screenshots/hd.png)
+
+</details>
+
+
 
 
